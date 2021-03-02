@@ -1,0 +1,22 @@
+{
+    "name": "OBLOQ Base Test",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "DFRobot_WIFI_I0T": "github:dfrobot/pxt-dfrobot_wifi_iot_uart#v0.3.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
